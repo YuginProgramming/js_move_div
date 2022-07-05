@@ -1,0 +1,7 @@
+div {
+    background-color: yellow;
+    width: 75px;
+    height: 75px;
+    border-radius: 20%;
+    position: absolute;
+}
